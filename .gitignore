@@ -1,0 +1,6 @@
+bin
+.buildozer
+.idea
+buildozer.spec
+__pycache__
+*.pyc
